@@ -1,0 +1,56 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    },
+    {
+      "rpc": "https://ethereum-rpc.publicnode.com"
+    }
+  ],
+  "recovery_generation": "0xf9552be31d245a56756eabffb7c74747fd334052d533edb41500871ee9e6245b"
+}
