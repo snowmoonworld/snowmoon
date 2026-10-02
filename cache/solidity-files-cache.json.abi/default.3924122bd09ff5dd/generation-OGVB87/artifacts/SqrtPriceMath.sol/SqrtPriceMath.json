@@ -1,1 +1,0 @@
-{"abi":[{"type":"error","name":"InvalidPrice","inputs":[]},{"type":"error","name":"InvalidPriceOrLiquidity","inputs":[]},{"type":"error","name":"NotEnoughLiquidity","inputs":[]},{"type":"error","name":"PriceOverflow","inputs":[]}],"id":60}
