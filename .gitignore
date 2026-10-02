@@ -1,0 +1,10 @@
+# Foundry build & run artifacts
+out/
+cache/
+broadcast/
+
+# OS
+.DS_Store
+
+# Private keys - never commit
+*.key
